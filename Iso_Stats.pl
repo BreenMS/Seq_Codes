@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w counts stray elements in a hash
 use strict;
-
+#THIS CODE CALCULATES BASIC SUMMARY STATISTICS FROM ISO-SEQ OUTPUT TABLE.
 #Input file must be arrange: #chr	start	end	isoform	strand_gmap	biotype	isolen	N_exc	rp_ovlapbp	sgexonclass	score	freads	preads	gene	transcript	strand_matchannot
 my(%countermultiNz,%countermulti, %countermultinovel,%counter, %null, %hash, %counterz, %countermultiN,%counterzmulti,
 $file, $line, $ID, $score,$strand,$biotype,$fraction, $isoforms,$add, $difference,$filtered, $mono_protein, $mono_lncRNA, $mono_NA, $mono_pseudo, $mono_lncRNA_RefSeq, $mono_TUCP, $mono_lncRNA_Cabili, $mono_ncRNA, $mono_IG_TR,
