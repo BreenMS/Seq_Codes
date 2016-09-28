@@ -1,2 +1,5 @@
 # Seq_Codes
-#This folder contains comprehensive codes for RNA-Seq data pre-processing, quality control, normalization, differential expression and WGCNA analysis. It also contains code for parsing IsoSeq data (as in table format from Pinto group). 
+#WGCNA4PINTO.R = THIS CODE PROVIDES A TEMPLATE FOR BUILDING FUTURE WGCNA ANALYSES.
+#Norm_Compare.R = THIS CODE PERFORMS COMPREHENSIVE DATA PRE-PROCESSING, QUALITY CONTROL, NORMALIZATION AND DIFFERENTIAL EXPRESSION OF SHORT-READ DATA.
+#Quantify_Biotypes_shortread.pl = THIS CODE QUANTIFIES DETECTED BIO-TYPES IN SHORT-READ DATA. 
+#Iso_Seq.pl = THIS CODE CALCULATES BASIC SUMMARY STATISTICS FROM ISO-SEQ OUTPUT TABLE.
