@@ -1,3 +1,4 @@
+#THIS CODE PERFORMS COMPREHENSIVE DATA PRE-PROCESSING, QUALITY CONTROL, NORMALIZATION AND DIFFERENTIAL EXPRESSION OF SHORT-READ DATA.
 #################################################################
 ################# Load the Libraries ############################
 #################################################################
