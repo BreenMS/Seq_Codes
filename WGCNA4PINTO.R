@@ -1,3 +1,4 @@
+#THIS CODE IS A TEMPLATE FOR BUILDING FUTURE WGCNA ANALYSES.
 library(WGCNA)
 library(cluster)
 options(stringsAsFactors  =  FALSE)
